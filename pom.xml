@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vntg</groupId>
-	<artifactId>rabbitmq-p</artifactId>
+	<artifactId>rabbitmq-c</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rabbitmq-p</name>
+	<name>rabbitmq-c</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
